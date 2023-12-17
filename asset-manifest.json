@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hedgehog.rp/static/css/main.c6ad4236.css",
+    "main.js": "/hedgehog.rp/static/js/main.adec7bcb.js",
+    "static/js/787.d5bebfb5.chunk.js": "/hedgehog.rp/static/js/787.d5bebfb5.chunk.js",
+    "static/media/waiting.gif": "/hedgehog.rp/static/media/waiting.3fb26d9b3c3c823ae786.gif",
+    "index.html": "/hedgehog.rp/index.html",
+    "static/media/EyeClosed.svg": "/hedgehog.rp/static/media/EyeClosed.c9d06d2cd2d7ad20d8bc94367bc86ce2.svg",
+    "static/media/Burger.svg": "/hedgehog.rp/static/media/Burger.1238890ab9606ef3e29ee741715849d2.svg",
+    "static/media/Edit.svg": "/hedgehog.rp/static/media/Edit.c1d6fb2fbc5312fc173994fc9f1adb9d.svg",
+    "static/media/Copy.svg": "/hedgehog.rp/static/media/Copy.7ffc359c22065bd0d6e5d9cb5fc92b46.svg",
+    "static/media/EyeOpen.svg": "/hedgehog.rp/static/media/EyeOpen.d3ce7dcea12c0d5f818b3372553a1be5.svg",
+    "static/media/Private.svg": "/hedgehog.rp/static/media/Private.e5efc690a81f3850ad7367f91286264e.svg",
+    "static/media/Close.svg": "/hedgehog.rp/static/media/Close.437f928fae128032d2f76eb2241bc89e.svg",
+    "static/media/Search.svg": "/hedgehog.rp/static/media/Search.df6bc24ea6354b17a5b8577dc9c555b9.svg",
+    "main.c6ad4236.css.map": "/hedgehog.rp/static/css/main.c6ad4236.css.map",
+    "main.adec7bcb.js.map": "/hedgehog.rp/static/js/main.adec7bcb.js.map",
+    "787.d5bebfb5.chunk.js.map": "/hedgehog.rp/static/js/787.d5bebfb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6ad4236.css",
+    "static/js/main.adec7bcb.js"
+  ]
+}
