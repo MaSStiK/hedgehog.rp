@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hedgehog.rp/static/css/main.929a5e79.css",
-    "main.js": "/hedgehog.rp/static/js/main.bf7f34b8.js",
+    "main.css": "/hedgehog.rp/static/css/main.40ba3c55.css",
+    "main.js": "/hedgehog.rp/static/js/main.b73cb680.js",
     "static/js/787.d5bebfb5.chunk.js": "/hedgehog.rp/static/js/787.d5bebfb5.chunk.js",
     "static/media/waiting.gif": "/hedgehog.rp/static/media/waiting.3fb26d9b3c3c823ae786.gif",
     "index.html": "/hedgehog.rp/index.html",
@@ -13,12 +13,12 @@
     "static/media/Private.svg": "/hedgehog.rp/static/media/Private.e5efc690a81f3850ad7367f91286264e.svg",
     "static/media/Close.svg": "/hedgehog.rp/static/media/Close.437f928fae128032d2f76eb2241bc89e.svg",
     "static/media/Search.svg": "/hedgehog.rp/static/media/Search.df6bc24ea6354b17a5b8577dc9c555b9.svg",
-    "main.929a5e79.css.map": "/hedgehog.rp/static/css/main.929a5e79.css.map",
-    "main.bf7f34b8.js.map": "/hedgehog.rp/static/js/main.bf7f34b8.js.map",
+    "main.40ba3c55.css.map": "/hedgehog.rp/static/css/main.40ba3c55.css.map",
+    "main.b73cb680.js.map": "/hedgehog.rp/static/js/main.b73cb680.js.map",
     "787.d5bebfb5.chunk.js.map": "/hedgehog.rp/static/js/787.d5bebfb5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.929a5e79.css",
-    "static/js/main.bf7f34b8.js"
+    "static/css/main.40ba3c55.css",
+    "static/js/main.b73cb680.js"
   ]
 }
