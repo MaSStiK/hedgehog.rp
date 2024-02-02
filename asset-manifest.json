@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hedgehog.rp/static/css/main.ace3c7a8.css",
-    "main.js": "/hedgehog.rp/static/js/main.c1f26929.js",
+    "main.js": "/hedgehog.rp/static/js/main.dccf1ff6.js",
     "static/js/787.d5bebfb5.chunk.js": "/hedgehog.rp/static/js/787.d5bebfb5.chunk.js",
     "static/media/base-photo.png": "/hedgehog.rp/static/media/base-photo.49fa144e08a18bf402b7.png",
     "static/media/waiting.gif": "/hedgehog.rp/static/media/waiting.3fb26d9b3c3c823ae786.gif",
@@ -18,11 +18,11 @@
     "static/media/Close.svg": "/hedgehog.rp/static/media/Close.9def856ea2bfb2481bbd221f17eef778.svg",
     "static/media/Search.svg": "/hedgehog.rp/static/media/Search.df6bc24ea6354b17a5b8577dc9c555b9.svg",
     "main.ace3c7a8.css.map": "/hedgehog.rp/static/css/main.ace3c7a8.css.map",
-    "main.c1f26929.js.map": "/hedgehog.rp/static/js/main.c1f26929.js.map",
+    "main.dccf1ff6.js.map": "/hedgehog.rp/static/js/main.dccf1ff6.js.map",
     "787.d5bebfb5.chunk.js.map": "/hedgehog.rp/static/js/787.d5bebfb5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ace3c7a8.css",
-    "static/js/main.c1f26929.js"
+    "static/js/main.dccf1ff6.js"
   ]
 }
