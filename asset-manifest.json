@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/hedgehog.rp/static/css/main.17f69885.css",
-    "main.js": "/hedgehog.rp/static/js/main.dccf1ff6.js",
+    "main.css": "/hedgehog.rp/static/css/main.52bfa2c5.css",
+    "main.js": "/hedgehog.rp/static/js/main.40b6ace1.js",
     "static/js/787.d5bebfb5.chunk.js": "/hedgehog.rp/static/js/787.d5bebfb5.chunk.js",
     "static/media/base-photo.png": "/hedgehog.rp/static/media/base-photo.49fa144e08a18bf402b7.png",
     "static/media/waiting.gif": "/hedgehog.rp/static/media/waiting.3fb26d9b3c3c823ae786.gif",
     "static/media/vk.png": "/hedgehog.rp/static/media/vk.5fb75fcb04f9e947385b.png",
-    "static/media/logo-fullsize.png": "/hedgehog.rp/static/media/logo-fullsize.129408336ca044497713.png",
+    "static/media/logoFullSize.png": "/hedgehog.rp/static/media/logoFullSize.129408336ca044497713.png",
     "index.html": "/hedgehog.rp/index.html",
     "static/media/EyeClosed.svg": "/hedgehog.rp/static/media/EyeClosed.c9d06d2cd2d7ad20d8bc94367bc86ce2.svg",
     "static/media/Burger.svg": "/hedgehog.rp/static/media/Burger.1238890ab9606ef3e29ee741715849d2.svg",
@@ -17,12 +17,12 @@
     "static/media/Private.svg": "/hedgehog.rp/static/media/Private.e5efc690a81f3850ad7367f91286264e.svg",
     "static/media/Close.svg": "/hedgehog.rp/static/media/Close.9def856ea2bfb2481bbd221f17eef778.svg",
     "static/media/Search.svg": "/hedgehog.rp/static/media/Search.df6bc24ea6354b17a5b8577dc9c555b9.svg",
-    "main.17f69885.css.map": "/hedgehog.rp/static/css/main.17f69885.css.map",
-    "main.dccf1ff6.js.map": "/hedgehog.rp/static/js/main.dccf1ff6.js.map",
+    "main.52bfa2c5.css.map": "/hedgehog.rp/static/css/main.52bfa2c5.css.map",
+    "main.40b6ace1.js.map": "/hedgehog.rp/static/js/main.40b6ace1.js.map",
     "787.d5bebfb5.chunk.js.map": "/hedgehog.rp/static/js/787.d5bebfb5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17f69885.css",
-    "static/js/main.dccf1ff6.js"
+    "static/css/main.52bfa2c5.css",
+    "static/js/main.40b6ace1.js"
   ]
 }
